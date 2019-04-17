@@ -1,0 +1,42 @@
+/* ------- FOOTER ------- */
+.footer-info {
+    background-color: #7A44AF;
+    color: white;
+    padding: 2.5rem;
+}
+
+.contact-btn {
+    background-color: white;
+}
+
+.contact-btn a {
+    color: #7A44AF;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.social-list {
+    list-style-type: none;
+    display: inline-block;
+    padding: .5rem;
+
+}
+
+.social-list li {
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.2rem;
+}
+
+.social-list img {
+    width: 24px;
+}
+
+.footer-copyright {
+    background-color: lightgrey;
+    padding: 16px;
+}
+
+.footer-copyright p {
+    margin: 0;
+}

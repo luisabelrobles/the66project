@@ -42,6 +42,18 @@
 .mission-sec h1 {
     text-align: center;
 }
+/*------ WHY - about.html ------*/
+.why-sec h1 {
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+}
+.why-sec h2 {
+    color: #7A44AF;
+    margin-bottom: 1rem;
+}
+.why-sec a {
+    color: #7A44AF;
+}
 
 /*------ OUR MISSION ------*/
 .home-mission {

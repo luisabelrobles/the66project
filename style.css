@@ -38,7 +38,10 @@
 .benefit-sec dt {
     color: #7A44AF;
 }
-
+/*------ OUR MISSION/VISION - about.html ------*/
+.mission-sec h1 {
+    text-align: center;
+}
 
 /*------ OUR MISSION ------*/
 .home-mission {

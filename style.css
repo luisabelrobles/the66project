@@ -54,7 +54,7 @@
 .mission-sec {
     background-color: #7A44AF;
     color: white;
-    padding: 3rem;
+    padding: 3rem 15px 3rem 15px;
 }
 .mission-sec h1 {
     text-align: center;
@@ -138,11 +138,11 @@
     padding: 2.5rem;
 }
 
-.contact-btn {
+.white-btn {
     background-color: white;
 }
 
-.contact-btn a {
+.white-btn a {
     color: #7A44AF;
     text-decoration: none;
     text-transform: uppercase;

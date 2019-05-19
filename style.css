@@ -62,6 +62,18 @@
 .why-sec a {
     color: #7A44AF;
 }
+/*------ PROBLEM - problem.html ------*/
+.problem-sec h1 {
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+}
+.problem-sec h2 {
+    color: #7A44AF;
+    margin-bottom: 1rem;
+}
+.problem-sec a {
+    color: #7A44AF;
+}
 
 /*------ OUR MISSION ------*/
 .home-mission {

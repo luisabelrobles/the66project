@@ -74,6 +74,15 @@
 .problem-sec a {
     color: #7A44AF;
 }
+/*------ SOLUTION - problem.html ------*/
+.solution-sec h1 {
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+}
+.solution-sec h2 {
+    color: #7A44AF;
+    margin-bottom: 1rem;
+}
 
 /*------ OUR MISSION ------*/
 .home-mission {

@@ -14,6 +14,18 @@
     width: 50%;
     margin-bottom: 2rem; 
 }
+/*------ JOIN COMMUNITY SECTION ------*/
+.community-sec {
+    background: #7A44AF;
+    color: white;
+    padding: 3rem;
+}
+.community-sec p {
+    color: #fafafa;
+}
+.community-sec h1 {
+    padding: 2rem 0 2rem 0;
+}
 
 /*------ INTRODUCTION ------*/
 .intro-sec {

@@ -133,6 +133,8 @@
 }
 .purple-btn {
     background-color: #7A44AF;
+    width: 100%;
+    display: block;
 }
 .purple-btn a {
     color: white;

@@ -131,6 +131,14 @@
     background-color: #fafafa;
     padding: 3rem;
 }
+.purple-btn {
+    background-color: #7A44AF;
+}
+.purple-btn a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
 /* ------- FOOTER ------- */
 .footer-info {
     background-color: #7A44AF;

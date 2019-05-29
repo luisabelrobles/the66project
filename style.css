@@ -1,4 +1,4 @@
-/*---------------- GLOBAL CLASSES ----------------*/
+/*--------------------- GLOBAL CLASSES ---------------------*/
 .wrapper {
     max-width: 840px;
     margin: 0 auto;
@@ -6,6 +6,9 @@
 .bg-purple {
     background-color: #7A44AF;
     color: white;
+}
+.bg-lightgrey {
+    background-color: #fafafa;
 }
 /*------ MAIN HERO ------*/
 .jumbotron {
@@ -65,18 +68,33 @@
     text-decoration: none;
     text-transform: uppercase;
 }
-
-/*------ JOIN COMMUNITY SECTION ------*/
-.community-sec {
-    background: #7A44AF;
-    color: white;
+/*--------------------- HOME PAGE GLOBALS ---------------------*/
+.home-sec {
     padding: 3rem;
 }
+/*------ JOIN COMMUNITY SECTION - index.html ------*/
 .community-sec p {
     color: #fafafa;
 }
 .community-sec h1 {
     padding: 2rem 0 2rem 0;
+}
+/*------ OUR MISSION - index.html ------*/
+.home-mission-icon {
+    padding: 2rem;
+}
+.home-mission-icon i {
+    margin-bottom: 1.5rem;
+    padding: .5rem;
+}
+.home-mission-icon a {
+    display: block;
+}
+/* ------- WHAT WE DO - index.html ------- */
+.home-what-we-do p {
+    max-width: 550px;
+    margin: 2rem auto;
+    color: #fafafa;
 }
 /*------ OUR MISSION/VISION - about.html ------*/
 .mission-sec {
@@ -124,43 +142,7 @@
     color: #7A44AF;
     margin-bottom: 1rem;
 }
-
-/*------ OUR MISSION ------*/
-.home-mission {
-    background-color: #fafafa;
-    padding: 3rem;
-}
-.home-mission-icon {
-    padding: 2rem;
-}
-.home-mission-icon i {
-    margin-bottom: 1.5rem;
-    padding: .5rem;
-}
-
-.home-mission-icon a {
-    display: block;
-}
-
-/* ------- WHAT WE DO ------- */
-.home-what-we-do {
-    background-color: #7A44AF;
-    color: white;
-    padding: 3rem;
-}
-.home-what-we-do p {
-    max-width: 550px;
-    margin: 2rem auto;
-    color: #fafafa;
-}
-
-/* ----- AREAS OF FOCUS ------*/
-.areas-of-focus {
-    background-color: #fafafa;
-    padding: 3rem;
-}
-
-/* ------- WORKOUT/NUTRITION/MIND GLOBALS ------- */
+/* ----------------- WORKOUT/NUTRITION/MIND GLOBALS ----------------- */
 /*------ INTRODUCTION ------*/
 .intro-sec {
     background-color: #7A44AF;

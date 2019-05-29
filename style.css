@@ -1,8 +1,12 @@
+/*---------------- GLOBAL CLASSES ----------------*/
 .wrapper {
     max-width: 840px;
     margin: 0 auto;
 }
-
+.bg-purple {
+    background-color: #7A44AF;
+    color: white;
+}
 /*------ MAIN HERO ------*/
 .jumbotron {
     background-color: white;
@@ -14,6 +18,54 @@
     width: 50%;
     margin-bottom: 2rem; 
 }
+/* ------- FOOTER ------- */
+.footer-info {
+    background-color: #7A44AF;
+    color: white;
+    padding: 2.5rem;
+}
+.social-list {
+    list-style-type: none;
+    display: inline-block;
+    padding: .5rem;
+
+}
+.social-list li {
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.2rem;
+}
+.social-list img {
+    width: 24px;
+}
+.footer-copyright {
+    background-color: #fafafa;
+    padding: 16px;
+}
+.footer-copyright p {
+    margin: 0;
+}
+
+/* ------- BUTTONS ------- */
+.white-btn {
+    background-color: white;
+}
+.white-btn a {
+    color: #7A44AF;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.purple-btn {
+    background-color: #7A44AF;
+    width: 100%;
+    display: block;
+}
+.purple-btn a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 /*------ JOIN COMMUNITY SECTION ------*/
 .community-sec {
     background: #7A44AF;
@@ -106,58 +158,6 @@
 .areas-of-focus {
     background-color: #fafafa;
     padding: 3rem;
-}
-.purple-btn {
-    background-color: #7A44AF;
-    width: 100%;
-    display: block;
-}
-.purple-btn a {
-    color: white;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-/* ------- FOOTER ------- */
-.footer-info {
-    background-color: #7A44AF;
-    color: white;
-    padding: 2.5rem;
-}
-
-.white-btn {
-    background-color: white;
-}
-
-.white-btn a {
-    color: #7A44AF;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-.social-list {
-    list-style-type: none;
-    display: inline-block;
-    padding: .5rem;
-
-}
-
-.social-list li {
-    display: inline-block;
-    margin: 0.2rem;
-    padding: 0.2rem;
-}
-
-.social-list img {
-    width: 24px;
-}
-
-.footer-copyright {
-    background-color: #fafafa;
-    padding: 16px;
-}
-
-.footer-copyright p {
-    margin: 0;
 }
 
 /* ------- WORKOUT/NUTRITION/MIND GLOBALS ------- */

@@ -80,49 +80,6 @@
     padding: 3rem;
 }
 
-/*------ JOIN COMMUNITY SECTION - index.html ------*/
-
-.community-sec p {
-    color: #fafafa;
-}
-.community-sec h1 {
-    padding: 2rem 0 2rem 0;
-}
-
-/*------ OUR MISSION - index.html ------*/
-
-.home-mission-icon {
-    padding: 2rem;
-}
-.home-mission-icon i {
-    margin-bottom: 1.5rem;
-    padding: .5rem;
-}
-.home-mission-icon a {
-    display: block;
-}
-
-/* ------- WHAT WE DO - index.html ------- */
-
-.home-what-we-do p {
-    max-width: 550px;
-    margin: 2rem auto;
-    color: #fafafa;
-}
-
-/*------ OUR MISSION/VISION - about.html ------*/
-
-.mission-sec {
-    padding: 3rem 15px 3rem 15px;
-}
-.mission-sec h1 {
-    text-align: center;
-    padding: 1rem;
-}
-.mission-sec p {
-    color: #fafafa;
-}
-
 /*-------------------------- ABOUT/PROBLEM PAGE GLOBALS --------------------------*/
 
 .info-sec h1 {
@@ -160,4 +117,47 @@
 }
 .benefit-sec dt {
     color: #7A44AF;
+}
+
+/*------ index.html - JOIN COMMUNITY SECTION  ------*/
+
+#community p {
+    color: #fafafa;
+}
+#community h1 {
+    padding: 2rem 0 2rem 0;
+}
+
+/*------ index.html - OUR MISSION  ------*/
+
+.mission-home-icon {
+    padding: 2rem;
+}
+.mission-home-icon i {
+    margin-bottom: 1.5rem;
+    padding: .5rem;
+}
+.mission-home-icon a {
+    display: block;
+}
+
+/* ------- index.html - WHAT WE DO -  ------- */
+
+#what-we-do p {
+    max-width: 550px;
+    margin: 2rem auto;
+    color: #fafafa;
+}
+
+/*------ about.html OUR MISSION/VISION------*/
+
+#mission {
+    padding: 3rem 15px 3rem 15px;
+}
+#mission h1 {
+    text-align: center;
+    padding: 1rem;
+}
+#mission p {
+    color: #fafafa
 }

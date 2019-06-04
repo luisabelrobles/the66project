@@ -96,6 +96,7 @@
 
 /* ---------------------- WORKOUT/NUTRITION/MIND GLOBALS ---------------------- */
 /*------ INTRODUCTION ------*/
+
 .intro-sec {
     background-color: #7A44AF;
     color: white;
@@ -109,6 +110,7 @@
 }
 
 /*------ BENEFITS ------*/
+
 .benefit-sec h2 {
     padding: 2rem;
 }
@@ -117,6 +119,15 @@
 }
 .benefit-sec dt {
     color: #7A44AF;
+}
+
+/*------ LINK TO GOOGLE SHEETS ------*/
+
+.link-sec {
+    padding: 1rem;
+}
+.link-sec h2 {
+    margin: 1rem 0 1rem 0;
 }
 
 /*------ index.html - JOIN COMMUNITY SECTION  ------*/
@@ -161,3 +172,4 @@
 #mission p {
     color: #fafafa
 }
+

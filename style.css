@@ -173,3 +173,14 @@
     color: #fafafa
 }
 
+/*------ coach.html ------*/
+
+.card-deck {
+    margin: 2rem 0.2rem 2rem 0.2rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .card-deck {
+        margin: 2rem 0.5rem 2rem 0.5rem;
+    }
+}
